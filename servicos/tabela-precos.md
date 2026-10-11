@@ -1,4 +1,28 @@
-# Tabela de preços: Geo Sampaio | Editora de Vídeo (proposta v2)
+# Tabela de preços: Geo Sampaio | Editora de Vídeo
+
+## FASE 1: Preço de lançamento (agora, ainda sem portfólio)
+
+> Válida para os **5 primeiros clientes** ou até **31/01/2027**, o que vier primeiro.
+> Objetivo da fase: portfólio + depoimentos, não faturamento.
+
+| Serviço | Captação + edição | Com estratégia + roteiro |
+|---|---|---|
+| Vídeo curto (até 1:30), avulso | 150 | 250 |
+| Pacote mensal: 4 vídeos curtos (1 dia de gravação) | 500 (125/vídeo) | 900 (225/vídeo) |
+| Vídeo até 15 min | 350 | 450 |
+| Acima de 15 min | sob orçamento | sob orçamento |
+
+**Condições do preço de lançamento:**
+- O cliente grava um depoimento curto e autoriza o uso dos vídeos no portfólio.
+- No máximo 2 clientes ao mesmo tempo (~8–10 vídeos/mês, que é o que cabe nos fins de semana).
+- Até 2 ajustes por vídeo (corte, texto, trilha). Regravar ou mudar o roteiro conta como vídeo novo.
+- Deslocamento fora de Belém cobrado à parte. 50% adiantado no avulso; pacote pago no início do mês.
+
+**Gatilho para a Fase 2:** 10 vídeos publicados no portfólio + 3 depoimentos → passar para a tabela abaixo.
+
+---
+
+## FASE 2: Tabela cheia (depois do portfólio)
 
 > Revisão da tabela original da Geo (out/2026). Valores em R$. Atendimento presencial em Belém, edição remota para todo o Brasil.
 
