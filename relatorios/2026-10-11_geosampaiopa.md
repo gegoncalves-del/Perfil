@@ -75,7 +75,15 @@ Padrão: **rosto da Geo + narrativa em 1ª pessoa (POV) + emoção ou orgulho re
 Os dados demográficos reais (idade, cidade, gênero, horários) não foram informados. Puxe em **Painel profissional → Público**.
 
 ## 5. Concorrência / benchmark
-Concorrentes ainda não enviados. Quando chegarem, vou comparar: posicionamento da bio, se mostram preço, uso de antes/depois, frequência, média de views e como captam clientes (link, direct, palavra-chave).
+Análise completa em `relatorios/2026-10-11_benchmark-concorrentes.md`.
+
+| Perfil | Seguidores | Engajamento | O que fazem bem | Oportunidade para a Geo |
+|---|---|---|---|---|
+| @giselemeter | 120 mil | Não visível | Cenário fixo, gancho com pauta quente, comenta os dois lados | Série "análise de edição" de vídeos políticos |
+| @mvitorino_ | 115 mil | Não visível | Fixado "perfil técnico, não militante", cases com resultado, séries com template | Copiar o fixado de posicionamento e o "como eu trabalho" |
+| @dreomar | 328 mil (34 posts) | Não visível | Capa padronizada, tutorial que vira portfólio, destaques-funil | Modelo de pouco post e alta qualidade, que cabe na rotina dela |
+
+**Conclusão:** nenhum dos três ocupa "edição de vídeo para comunicação política". O espaço está livre, e Gisele e Marcelo são potenciais clientes/parceiros, não rivais.
 
 ## 6. SWOT
 | Forças | Fraquezas |

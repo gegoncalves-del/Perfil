@@ -33,8 +33,8 @@
 - **Identidade visual:** Não definida. Hoje o feed mistura a identidade de SFL (amarelo/preto), Liberty MUN (azul/amarelo) e Novo (laranja).
 
 ## 5. Concorrência e referências
-- **Concorrentes diretos:** _A enviar._
-- **Referências que admira:** _A enviar._
+- **Concorrentes/referências enviados:** @giselemeter (marketing político), @mvitorino_ (marketing político), @dreomar (editor de vídeo / IA). Ver `perfis/concorrentes/README.md`.
+- **Concorrentes diretos de edição no Brasil:** a levantar.
 
 ## 6. Metas e prazo
 - **Restrição:** Trabalha em agência em dias úteis → produção concentrada no fim de semana (bloco de 3–4 h).
